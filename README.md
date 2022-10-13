@@ -1,3 +1,9 @@
+# Description
+This python project emulates a blockchain network and replicates all the operations of a blockchain network.
+
+Blocks, keys, transancations, signatures, signing transactions, hashing are all simulated by this simple blockchain network project 
+
+# Getting started
 **Activate the virtual environment**
 ```
 source blockchain-env/scripts/activate
